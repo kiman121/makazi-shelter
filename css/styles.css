@@ -1,0 +1,75 @@
+body {
+  background-color: #efeef1;
+  font-family: nexa;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #000;
+  font-size: 14px;
+}
+ul {
+  list-style-type: none;
+}
+p {
+  text-align: center;
+}
+.heading-1 {
+  color: #6504b5;
+  text-align: center;
+}
+.page-wrapper {
+  margin: 0px;
+}
+
+.site-header {
+  background-color: #000;
+  margin: 0px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.site-logo {
+  height: 50px;
+}
+.navigator {
+  float: right;
+  margin-top: 10px;
+}
+.navigator li {
+  display: inline;
+  /* padding-top: 5px; */
+}
+.navigator li a {
+  padding: 8px;
+  background-color: #ddd;
+  text-decoration: none;
+}
+.navigator li a:hover {
+  color: red;
+}
+.pet-img {
+    display: block;
+    position: inherit;
+    /* object-fit: cover; */
+  height: 100%;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.available-pets{
+    margin: 0px;
+}
+.available-pet.card{
+    display: block;
+
+}
+.card-heading{
+    text-align: center;
+    padding-top: 16px;
+}
+.site-footer{
+    text-align: center;
+    font-size: 100%;
+    background-color: #ddb4ff;
+    margin-top: 20px;
+}
+.site-footer p{
+    display: inline;
+}
