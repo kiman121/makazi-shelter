@@ -19,7 +19,6 @@ p {
 .page-wrapper {
   margin: 0px;
 }
-
 .site-header {
   background-color: #000;
   margin: 0px;
@@ -46,30 +45,29 @@ p {
   color: red;
 }
 .pet-img {
-    display: block;
-    position: inherit;
-    /* object-fit: cover; */
+  display: block;
+  position: inherit;
+  /* object-fit: cover; */
   height: 100%;
   width: 100%;
   margin-bottom: 15px;
 }
-.available-pets{
-    margin: 0px;
+.available-pets {
+  margin: 0px;
 }
-.available-pet.card{
-    display: block;
-
+.available-pet.card {
+  display: block;
 }
-.card-heading{
-    text-align: center;
-    padding-top: 16px;
+.card-heading {
+  text-align: center;
+  padding-top: 16px;
 }
-.site-footer{
-    text-align: center;
-    font-size: 100%;
-    background-color: #ddb4ff;
-    margin-top: 20px;
+.site-footer {
+  text-align: center;
+  font-size: 100%;
+  background-color: #ddb4ff;
+  margin-top: 20px;
 }
-.site-footer p{
-    display: inline;
+.site-footer p {
+  display: inline;
 }
